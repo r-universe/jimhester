@@ -16,5 +16,11 @@
     "url": "https://github.com/hadley/memoise",
     "via": ["lookup"],
     "from": "lookup"
+  },
+  {
+    "package": "rematch2",
+    "url": "https://github.com/mangothecat/rematch2",
+    "via": ["autoinst"],
+    "from": "autoinst"
   }
 ]

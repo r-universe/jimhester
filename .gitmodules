@@ -58,3 +58,8 @@
 	url = https://github.com/hadley/memoise
 	shallow = true
 	registered = false
+[submodule "rematch2"]
+	path = rematch2
+	url = https://github.com/mangothecat/rematch2
+	shallow = true
+	registered = false
