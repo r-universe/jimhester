@@ -35,6 +35,10 @@
 	path = memoise
 	url = https://github.com/hadley/memoise
 	registered = false
+[submodule "rematch2"]
+	path = rematch2
+	url = https://github.com/mangothecat/rematch2
+	registered = false
 [submodule "thank"]
 	path = thank
 	url = https://github.com/jimhester/thank
