@@ -1,0 +1,20 @@
+[
+  {
+    "package": "gh",
+    "url": "https://github.com/gaborcsardi/gh",
+    "via": ["lookup"],
+    "from": "lookup"
+  },
+  {
+    "package": "highlite",
+    "url": "https://github.com/jimhester/highlite",
+    "via": ["lookup"],
+    "from": "lookup"
+  },
+  {
+    "package": "memoise",
+    "url": "https://github.com/hadley/memoise",
+    "via": ["lookup"],
+    "from": "lookup"
+  }
+]

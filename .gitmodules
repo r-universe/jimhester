@@ -11,6 +11,14 @@
 [submodule "completeme"]
 	path = completeme
 	url = https://github.com/jimhester/completeme
+[submodule "gh"]
+	path = gh
+	url = https://github.com/gaborcsardi/gh
+	registered = false
+[submodule "highlite"]
+	path = highlite
+	url = https://github.com/jimhester/highlite
+	registered = false
 [submodule "knitrBootstrap"]
 	path = knitrBootstrap
 	url = https://github.com/jimhester/knitrBootstrap
@@ -23,6 +31,10 @@
 [submodule "lookup"]
 	path = lookup
 	url = https://github.com/jimhester/lookup
+[submodule "memoise"]
+	path = memoise
+	url = https://github.com/hadley/memoise
+	registered = false
 [submodule "thank"]
 	path = thank
 	url = https://github.com/jimhester/thank
