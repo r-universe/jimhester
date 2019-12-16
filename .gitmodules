@@ -43,3 +43,18 @@
 	url = https://github.com/jimhester/thank
 	shallow = true
 	registered = true
+[submodule "gh"]
+	path = gh
+	url = https://github.com/gaborcsardi/gh
+	shallow = true
+	registered = false
+[submodule "highlite"]
+	path = highlite
+	url = https://github.com/jimhester/highlite
+	shallow = true
+	registered = false
+[submodule "memoise"]
+	path = memoise
+	url = https://github.com/hadley/memoise
+	shallow = true
+	registered = false
