@@ -3,3 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "knitrBootstrap"]
+	path = knitrBootstrap
+	url = https://github.com/jimhester/knitrbootstrap
+	shallow = true
+[submodule "lintr"]
+	path = lintr
+	url = https://github.com/jimhester/lintr
+	shallow = true
