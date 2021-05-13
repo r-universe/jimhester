@@ -8,8 +8,10 @@
 	url = https://github.com/jimhester/knitrbootstrap
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "lintr"]
 	path = lintr
 	url = https://github.com/jimhester/lintr
 	shallow = true
 	registered = true
+	oncran = true
