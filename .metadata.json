@@ -1,0 +1,10 @@
+[
+  {
+    "package": "knitrBootstrap",
+    "oncran": true
+  },
+  {
+    "package": "lintr",
+    "oncran": true
+  }
+]
