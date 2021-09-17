@@ -1,10 +1,28 @@
 [
   {
-    "package": "knitrBootstrap",
-    "oncran": true
+    "package": "knitrBoostrap"
   },
   {
     "package": "lintr",
     "oncran": true
+  },
+  {
+    "package": "bloom"
+  },
+  {
+    "package": "lambda"
+  },
+  {
+    "package": "lookup",
+    "oncran": false
+  },
+  {
+    "package": "autoinst"
+  },
+  {
+    "package": "completeme"
+  },
+  {
+    "package": "thank"
   }
 ]

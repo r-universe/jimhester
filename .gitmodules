@@ -1,15 +1,45 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/jimhester/universe
 	shallow = true
 	branch = HEAD
-[submodule "knitrBootstrap"]
-	path = knitrBootstrap
-	url = https://github.com/jimhester/knitrbootstrap
+[submodule "knitrBoostrap"]
+	path = knitrBoostrap
+	url = https://github.com/jimhester/knitrBoostrap
 	shallow = true
 	registered = true
 [submodule "lintr"]
 	path = lintr
 	url = https://github.com/jimhester/lintr
+	shallow = true
+	registered = true
+[submodule "bloom"]
+	path = bloom
+	url = https://github.com/jimhester/bloom
+	shallow = true
+	registered = true
+[submodule "lambda"]
+	path = lambda
+	url = https://github.com/jimhester/lambda
+	shallow = true
+	registered = true
+[submodule "lookup"]
+	path = lookup
+	url = https://github.com/jimhester/lookup
+	shallow = true
+	registered = true
+[submodule "autoinst"]
+	path = autoinst
+	url = https://github.com/jimhester/autoinst
+	shallow = true
+	registered = true
+[submodule "completeme"]
+	path = completeme
+	url = https://github.com/jimhester/completeme
+	shallow = true
+	registered = true
+[submodule "thank"]
+	path = thank
+	url = https://github.com/jimhester/thank
 	shallow = true
 	registered = true
