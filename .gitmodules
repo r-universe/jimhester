@@ -3,9 +3,9 @@
 	url = https://github.com/jimhester/universe
 	shallow = true
 	branch = HEAD
-[submodule "knitrBoostrap"]
-	path = knitrBoostrap
-	url = https://github.com/jimhester/knitrBoostrap
+[submodule "knitrBootstrap"]
+	path = knitrBootstrap
+	url = https://github.com/jimhester/knitrBootstrap
 	shallow = true
 	registered = true
 [submodule "lintr"]

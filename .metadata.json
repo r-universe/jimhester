@@ -1,6 +1,7 @@
 [
   {
-    "package": "knitrBoostrap"
+    "package": "knitrBootstrap",
+    "oncran": true
   },
   {
     "package": "lintr",
