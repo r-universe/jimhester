@@ -23,6 +23,16 @@
 	url = https://github.com/jimhester/lambda
 	shallow = true
 	registered = true
+[submodule "lookup"]
+	path = lookup
+	url = https://github.com/jimhester/lookup
+	shallow = true
+	registered = true
+[submodule "autoinst"]
+	path = autoinst
+	url = https://github.com/jimhester/autoinst
+	shallow = true
+	registered = true
 [submodule "completeme"]
 	path = completeme
 	url = https://github.com/jimhester/completeme
