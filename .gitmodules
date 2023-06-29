@@ -1,65 +1,44 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/jimhester/universe
-	shallow = true
 	branch = HEAD
 [submodule "knitrBootstrap"]
 	path = knitrBootstrap
 	url = https://github.com/jimhester/knitrBootstrap
-	shallow = true
-	registered = true
 [submodule "lintr"]
 	path = lintr
 	url = https://github.com/jimhester/lintr
-	shallow = true
-	registered = true
 [submodule "bloom"]
 	path = bloom
 	url = https://github.com/jimhester/bloom
-	shallow = true
-	registered = true
 [submodule "lambda"]
 	path = lambda
 	url = https://github.com/jimhester/lambda
-	shallow = true
-	registered = true
 [submodule "lookup"]
 	path = lookup
 	url = https://github.com/jimhester/lookup
-	shallow = true
-	registered = true
 [submodule "autoinst"]
 	path = autoinst
 	url = https://github.com/jimhester/autoinst
-	shallow = true
-	registered = true
 [submodule "completeme"]
 	path = completeme
 	url = https://github.com/jimhester/completeme
-	shallow = true
-	registered = true
 [submodule "thank"]
 	path = thank
 	url = https://github.com/jimhester/thank
-	shallow = true
-	registered = true
 [submodule "gh"]
 	path = gh
 	url = https://github.com/gaborcsardi/gh
-	shallow = true
 	registered = false
 [submodule "highlite"]
 	path = highlite
 	url = https://github.com/jimhester/highlite
-	shallow = true
 	registered = false
 [submodule "memoise"]
 	path = memoise
 	url = https://github.com/hadley/memoise
-	shallow = true
 	registered = false
 [submodule "rematch2"]
 	path = rematch2
 	url = https://github.com/mangothecat/rematch2
-	shallow = true
 	registered = false
