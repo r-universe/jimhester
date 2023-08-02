@@ -2,30 +2,15 @@
 	path = .registry
 	url = https://github.com/jimhester/universe
 	branch = HEAD
-[submodule "knitrBootstrap"]
-	path = knitrBootstrap
-	url = https://github.com/jimhester/knitrBootstrap
-[submodule "lintr"]
-	path = lintr
-	url = https://github.com/jimhester/lintr
-[submodule "bloom"]
-	path = bloom
-	url = https://github.com/jimhester/bloom
-[submodule "lambda"]
-	path = lambda
-	url = https://github.com/jimhester/lambda
-[submodule "lookup"]
-	path = lookup
-	url = https://github.com/jimhester/lookup
 [submodule "autoinst"]
 	path = autoinst
 	url = https://github.com/jimhester/autoinst
+[submodule "bloom"]
+	path = bloom
+	url = https://github.com/jimhester/bloom
 [submodule "completeme"]
 	path = completeme
 	url = https://github.com/jimhester/completeme
-[submodule "thank"]
-	path = thank
-	url = https://github.com/jimhester/thank
 [submodule "gh"]
 	path = gh
 	url = https://github.com/gaborcsardi/gh
@@ -34,6 +19,18 @@
 	path = highlite
 	url = https://github.com/jimhester/highlite
 	registered = false
+[submodule "knitrBootstrap"]
+	path = knitrBootstrap
+	url = https://github.com/jimhester/knitrBootstrap
+[submodule "lambda"]
+	path = lambda
+	url = https://github.com/jimhester/lambda
+[submodule "lintr"]
+	path = lintr
+	url = https://github.com/jimhester/lintr
+[submodule "lookup"]
+	path = lookup
+	url = https://github.com/jimhester/lookup
 [submodule "memoise"]
 	path = memoise
 	url = https://github.com/hadley/memoise
@@ -42,3 +39,6 @@
 	path = rematch2
 	url = https://github.com/mangothecat/rematch2
 	registered = false
+[submodule "thank"]
+	path = thank
+	url = https://github.com/jimhester/thank
