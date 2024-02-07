@@ -2,25 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "gh"]
-	path = gh
-	url = https://github.com/gaborcsardi/gh
-	registered = false
-[submodule "highlite"]
-	path = highlite
-	url = https://github.com/jimhester/highlite
-	registered = false
 [submodule "knitrBootstrap"]
 	path = knitrBootstrap
 	url = https://github.com/jimhester/knitrbootstrap
-[submodule "memoise"]
-	path = memoise
-	url = https://github.com/hadley/memoise
-	registered = false
-[submodule "rematch2"]
-	path = rematch2
-	url = https://github.com/mangothecat/rematch2
-	registered = false
 [submodule "types"]
 	path = types
 	url = https://github.com/jimhester/types
