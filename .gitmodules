@@ -1,16 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/jimhester/universe
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "autoinst"]
-	path = autoinst
-	url = https://github.com/jimhester/autoinst
-[submodule "bloom"]
-	path = bloom
-	url = https://github.com/jimhester/bloom
-[submodule "completeme"]
-	path = completeme
-	url = https://github.com/jimhester/completeme
 [submodule "gh"]
 	path = gh
 	url = https://github.com/gaborcsardi/gh
@@ -21,16 +12,7 @@
 	registered = false
 [submodule "knitrBootstrap"]
 	path = knitrBootstrap
-	url = https://github.com/jimhester/knitrBootstrap
-[submodule "lambda"]
-	path = lambda
-	url = https://github.com/jimhester/lambda
-[submodule "lintr"]
-	path = lintr
-	url = https://github.com/jimhester/lintr
-[submodule "lookup"]
-	path = lookup
-	url = https://github.com/jimhester/lookup
+	url = https://github.com/jimhester/knitrbootstrap
 [submodule "memoise"]
 	path = memoise
 	url = https://github.com/hadley/memoise
@@ -39,6 +21,6 @@
 	path = rematch2
 	url = https://github.com/mangothecat/rematch2
 	registered = false
-[submodule "thank"]
-	path = thank
-	url = https://github.com/jimhester/thank
+[submodule "types"]
+	path = types
+	url = https://github.com/jimhester/types
