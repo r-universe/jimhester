@@ -1,10 +1,28 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/jimhester/jimhester.r-universe.dev
 	branch = HEAD
+[submodule "autoinst"]
+	path = autoinst
+	url = https://github.com/jimhester/autoinst
+[submodule "bloom"]
+	path = bloom
+	url = https://github.com/jimhester/bloom
+[submodule "completeme"]
+	path = completeme
+	url = https://github.com/jimhester/completeme
 [submodule "knitrBootstrap"]
 	path = knitrBootstrap
-	url = https://github.com/jimhester/knitrbootstrap
-[submodule "types"]
-	path = types
-	url = https://github.com/jimhester/types
+	url = https://github.com/jimhester/knitrBootstrap
+[submodule "lambda"]
+	path = lambda
+	url = https://github.com/jimhester/lambda
+[submodule "lintr"]
+	path = lintr
+	url = https://github.com/jimhester/lintr
+[submodule "lookup"]
+	path = lookup
+	url = https://github.com/jimhester/lookup
+[submodule "thank"]
+	path = thank
+	url = https://github.com/jimhester/thank
